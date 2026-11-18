@@ -1,6 +1,6 @@
 # AI-Based-Agricultural-Anomaly-Detection-Using-KiwisIoT
 An intelligent IoT platform using KiwisIoT and AI to detect agricultural threats, crop stress, and environmental anomalies.
-# 🤖 📌 About the Project
+#  📌 About the Project
 
 AI-Based Agricultural Anomaly Detection Using KiwisIoT is an IoT-based smart agriculture project designed to monitor agricultural environmental conditions and identify unusual changes in sensor datAI-Based Agricultural Anomaly Detection Using KiwisIoT
 
